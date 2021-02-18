@@ -1,4 +1,4 @@
-h1>A visualization showing currently hosted Javascript projects hosted on Github, as well as information about these projects.</h1>
+<h1>A visualization showing currently hosted Javascript projects hosted on Github, as well as information about these projects.</h1>
 
 <h2>Installation</h2>
 <p>Requests package : It allows to easily request information from a website and examine the response.</p>
@@ -16,7 +16,7 @@ h1>A visualization showing currently hosted Javascript projects hosted on Github
 </ul>
 
 <h2>Output from Plotly</h2>
-
+<img src="https://github.com/ria-19/DataVisualizationusingWebAPI/blob/main/newplot.png">
 
 
 <h2>Acknowledgments</h2>
